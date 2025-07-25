@@ -1,12 +1,40 @@
-# React + Vite
+# ControlMoon: App Web para Control de Gastos Mensuales
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Descripción
+ControlMoon es una aplicación web diseñada para ayudarte a gestionar tus gastos mensuales de manera sencilla y eficiente.
 
-Currently, two official plugins are available:
+## Requerimientos Principales
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Registro sencillo de productos comprados**
+- **Visualización de gastos semanales y sus categorías**
+- **Registro de gastos diarios y cálculo del saldo restante semanal/mensual**
+- **Generación de planes de ahorro personalizados**
 
-## Expanding the ESLint configuration
+## Funcionalidades Clave
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. **Registrar productos:** Añade fácilmente los productos que compras.
+2. **Registrar gastos:** Ingresa tus gastos diarios de forma rápida.
+3. **Ver saldo disponible:** Consulta cuánto dinero te queda en la semana o mes.
+
+## Primeros Pasos
+
+- **Diseñar las interfaces:** Comienza por definir cómo se verá y funcionará la app.
+
+## Interfaz de Registro de Gastos
+
+- Permite registrar un gasto de manera fácil y rápida.
+- Muestra una lista de productos comprados recientemente.
+
+## Elementos Incluidos en la Feature
+
+- Visualización de gastos semanales y sus categorías.
+- Registro de gastos diarios y cálculo del saldo restante.
+- Generación de planes de ahorro.
+
+## Tecnología Utilizada
+
+- **React:** Para el desarrollo de la interfaz de usuario.
+
+---
+
+¡Comienza a diseñar tus interfaces y lleva el control de tus finanzas con ControlMoon!
