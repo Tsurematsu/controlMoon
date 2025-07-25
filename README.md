@@ -37,4 +37,6 @@ ControlMoon es una aplicación web diseñada para ayudarte a gestionar tus gasto
 
 ---
 
-¡Comienza a diseñar tus interfaces y lleva el control de tus finanzas con ControlMoon!
+
+
+![Logo de ControlMoon](./images/DESING.png)
